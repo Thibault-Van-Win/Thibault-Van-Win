@@ -1,10 +1,10 @@
 ### About me
 
-🛠️ Security engineer by day, threat hunter by night
-🔍 Living the DFIR dream and the occasional sleepless caffeine-fueled deep dive
-🔧 Building tools for SOCs
-👾 Malware’s worst nightmare
-🧪 Currently training a fleet of Go programs to become sentient
+🛠️ Security engineer by day, threat hunter by night  
+🔍 Living the DFIR dream and the occasional sleepless caffeine-fueled deep dive  
+🔧 Building tools for SOCs  
+👾 Malware’s worst nightmare  
+🧪 Currently training a fleet of Go programs to become sentient  
 
 ### My main interests are:
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
